@@ -189,6 +189,7 @@ body {
   margin-bottom: 16px;
 }
 
+/* Group First/Last name and phone/email into same row */
 .form-row .form-group {
   flex: 1;
   min-width: 240px;
